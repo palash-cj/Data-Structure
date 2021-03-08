@@ -1,0 +1,11 @@
+19:21:12 **** Incremental Build of configuration Debug for project InsertionSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o src/InsertionSort.o ../src/InsertionSort.cpp 
+../src/InsertionSort.cpp: In function ‘void sort(int, int*)’:
+../src/InsertionSort.cpp:14:6: warning: unused variable ‘i’ [-Wunused-variable]
+   14 |  int i, j, key;
+      |      ^
+g++ -o InsertionSort src/InsertionSort.o 
+
+19:21:14 Build Finished. 0 errors, 1 warnings. (took 2s.239ms)
+

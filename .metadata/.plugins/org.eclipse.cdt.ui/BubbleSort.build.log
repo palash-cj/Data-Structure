@@ -1,0 +1,7 @@
+17:37:34 **** Incremental Build of configuration Debug for project BubbleSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o src/BubbleSort.o ../src/BubbleSort.cpp 
+g++ -o BubbleSort src/BubbleSort.o 
+
+17:37:36 Build Finished. 0 errors, 0 warnings. (took 2s.103ms)
+

@@ -1,0 +1,10 @@
+LaunchTargetManager/configs/BinarySearch=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/array=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/sorting=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:array,org.eclipse.launchbar.core.descriptorType.default\:search,org.eclipse.launchbar.core.descriptorType.default\:BinarySearch,org.eclipse.launchbar.core.descriptorType.default\:sorting,org.eclipse.launchbar.core.descriptorType.default\:BubbleSort,org.eclipse.launchbar.core.descriptorType.default\:InsertionSort,org.eclipse.launchbar.core.descriptorType.default\:LinkedList
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:array/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:array/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
