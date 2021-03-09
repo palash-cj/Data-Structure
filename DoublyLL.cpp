@@ -3,7 +3,7 @@
 // Author      : Palash Jamaiwar
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Doubly LL Insertion & Deletion, Ansi-style
 //============================================================================
 
 #include <iostream>
